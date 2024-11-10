@@ -2072,17 +2072,6 @@ eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));
 
 /***/ }),
 
-/***/ "(rsc)/./node_modules/next/dist/client/components/parallel-route-default.js":
-/*!****************************************************************************!*\
-  !*** ./node_modules/next/dist/client/components/parallel-route-default.js ***!
-  \****************************************************************************/
-/***/ ((module, exports, __webpack_require__) => {
-
-"use strict";
-eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));\n0 && (0);\nfunction _export(target, all) {\n    for(var name in all)Object.defineProperty(target, name, {\n        enumerable: true,\n        get: all[name]\n    });\n}\n_export(exports, {\n    PARALLEL_ROUTE_DEFAULT_PATH: function() {\n        return PARALLEL_ROUTE_DEFAULT_PATH;\n    },\n    default: function() {\n        return ParallelRouteDefault;\n    }\n});\nconst _notfound = __webpack_require__(/*! ./not-found */ \"(rsc)/./node_modules/next/dist/client/components/not-found.js\");\nconst PARALLEL_ROUTE_DEFAULT_PATH = 'next/dist/client/components/parallel-route-default.js';\nfunction ParallelRouteDefault() {\n    (0, _notfound.notFound)();\n}\nif ((typeof exports.default === 'function' || typeof exports.default === 'object' && exports.default !== null) && typeof exports.default.__esModule === 'undefined') {\n    Object.defineProperty(exports.default, '__esModule', {\n        value: true\n    });\n    Object.assign(exports.default, exports);\n    module.exports = exports.default;\n} //# sourceMappingURL=parallel-route-default.js.map\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2NsaWVudC9jb21wb25lbnRzL3BhcmFsbGVsLXJvdXRlLWRlZmF1bHQuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7O0lBRWFBLDJCQUEyQjtlQUEzQkE7O0lBR2IsT0FFQztlQUZ1QkM7OztzQ0FMQztBQUVsQixNQUFNRCw4QkFDWDtBQUVhLFNBQVNDO0lBQ3RCQyxDQUFBQSxHQUFBQSxVQUFBQSxRQUFBQTtBQUNGIiwic291cmNlcyI6WyJDOlxcVXNlcnNcXGNqdWdvXFxzcmNcXGNsaWVudFxcY29tcG9uZW50c1xccGFyYWxsZWwtcm91dGUtZGVmYXVsdC50c3giXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgbm90Rm91bmQgfSBmcm9tICcuL25vdC1mb3VuZCdcblxuZXhwb3J0IGNvbnN0IFBBUkFMTEVMX1JPVVRFX0RFRkFVTFRfUEFUSCA9XG4gICduZXh0L2Rpc3QvY2xpZW50L2NvbXBvbmVudHMvcGFyYWxsZWwtcm91dGUtZGVmYXVsdC5qcydcblxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUGFyYWxsZWxSb3V0ZURlZmF1bHQoKSB7XG4gIG5vdEZvdW5kKClcbn1cbiJdLCJuYW1lcyI6WyJQQVJBTExFTF9ST1VURV9ERUZBVUxUX1BBVEgiLCJQYXJhbGxlbFJvdXRlRGVmYXVsdCIsIm5vdEZvdW5kIl0sImlnbm9yZUxpc3QiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(rsc)/./node_modules/next/dist/client/components/parallel-route-default.js\n");
-
-/***/ }),
-
 /***/ "(rsc)/./node_modules/next/dist/client/components/render-from-template-context.js":
 /*!**********************************************************************************!*\
   !*** ./node_modules/next/dist/client/components/render-from-template-context.js ***!
